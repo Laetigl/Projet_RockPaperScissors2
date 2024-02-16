@@ -1,8 +1,8 @@
 {
-  "homepage": "https://laetigl.github.io/Projet_RockPaperScissors2/",
   "name": "projet-pierre-papier-ciseaux",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://laetigl.github.io/Projet_RockPaperScissors2/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
